@@ -1,0 +1,8 @@
+# Titanic Assignment 2
+
+## Requirements
+
+pandas
+numpy
+scikit-learn
+jupyter
