@@ -1,8 +1,8 @@
-# Titanic Assignment 2
-
-## Requirements
-
-pandas
-numpy
-scikit-learn
-jupyter
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+matplotlib>=3.6
+seaborn>=0.12
+jupyter>=1.0
+notebook>=6.5
+ipykernel>=6.0
